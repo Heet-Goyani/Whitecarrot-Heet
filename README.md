@@ -1,7 +1,7 @@
 # Google Calendar App
 
 A simple React application that allows users to sign in with Google and view their Google Calendar events. It uses Google OAuth for authentication and fetches calendar events via the Google Calendar API.
-- Deploy Link: https://whitecarrot-heetg.netlify.app/
+- Hosted Link: https://whitecarrot-heetg.netlify.app/
 
 ## Setup Instructions
 
